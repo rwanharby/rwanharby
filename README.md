@@ -29,6 +29,6 @@ Driven by a strong passion for data, business, and technology, I'm always eager 
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="40">
 </a>
 &nbsp;&nbsp;
-<a href="mailto:rwan.harby.978@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=rwan.harby.978@gmail.com" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="40">
 </a>
