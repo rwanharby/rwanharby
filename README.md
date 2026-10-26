@@ -2,7 +2,7 @@
 
 <img align="right" width="300" src="https://github.com/user-attachments/assets/d7e0827b-f153-4bfb-9c0f-72bacc87331b" alt="Web Design Lottie Animation" />
 
-### 🚀 Data Engineer Trainee | MIS Student | Data & BI Enthusiast
+### 🚀 Data Engineer Trainee | MIS | Data & BI Enthusiast
 Driven by a strong passion for data, business, and technology, I'm always eager to dive into new tech! As a Management Information Systems student trained in Data Analytics and Business Intelligence, my current focus is on Data Engineering. I am energized by uncovering what happens behind the scenes—building the ETL pipelines and databases that transform raw, messy data into structured, reliable assets.
 
 
